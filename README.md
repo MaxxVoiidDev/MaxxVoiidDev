@@ -1,4 +1,11 @@
-### Hi there 👋
+## ¡Hola!
+### ¡Bienvenido a mi cuenta de desarollador!
+
+- Soy un programador de **Roblox Studio** y me dedico a crear algunas experiencias (juegos) para crecer dentro de la plataforma de Roblox. _(Probablemente no vaya a crecer eventualmente, pero tengo esperanzas 👍)_
+- Aunque mis experiencias no sean casi exitosas como pensaba, me ayudo con algunos tutoriales que encuentro dentro del [Foro oficial de Roblox para desarolladores](https://devforum.roblox.com/) y algunos videos que rondan en youtube, me ayudan a poder serguir espandiendo mi conocimiento mejorar mis experiencias.
+
+Eso seria todo sobre mi :)
+
 
 <!--
 **maxisepYTDev/maxisepYTDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
