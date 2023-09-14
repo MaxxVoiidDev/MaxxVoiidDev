@@ -1,7 +1,7 @@
 ## ¡Hola!
 ### ¡Bienvenido a mi cuenta de desarollador!
 
-- 📚 Aprendiendo JS y Lua
+- 📚 Aprendiendo **JavaScript y Lua**.
 - 👨‍💻 Programador de **Roblox Studio** con el lenguaje de Lua y creando bots de **[Discord](https://discord.com/)** con el lenguaje de JS.
 
 Eso seria todo sobre mi :)
