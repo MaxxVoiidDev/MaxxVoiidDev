@@ -3,6 +3,7 @@
 
 - 📚 Aprendiendo **JavaScript y Lua**.
 - 👨‍💻 Programador de **Roblox Studio** con el lenguaje de Lua y creando bots de **[Discord](https://discord.com/)** con el lenguaje de JS.
+- 😎 [¡Visita más sobre mi viendo mi Bento!](https://bento.me/maxxvoiid)
 
 Eso seria todo sobre mi :)
 
